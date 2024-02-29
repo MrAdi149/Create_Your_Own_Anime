@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172098882943",
+    "project_id": "anime-fe2e2",
+    "storage_bucket": "anime-fe2e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172098882943:android:80b9df9f9c19edfb301e4a",
+        "android_client_info": {
+          "package_name": "com.example.loginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172098882943-7lot4jc7khsuq2qb8rn14t7jjvtvgood.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoz-WTRAGli0aP8NvwIHPlJ0WJqHblDwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172098882943-7lot4jc7khsuq2qb8rn14t7jjvtvgood.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
